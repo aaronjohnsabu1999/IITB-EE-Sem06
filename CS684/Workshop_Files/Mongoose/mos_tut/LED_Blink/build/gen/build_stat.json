@@ -1,0 +1,6 @@
+{
+  "arch": "esp32",
+  "platform": "esp32",
+  "app_name": "mos_tut",
+  "build_time_ms": 372690
+}

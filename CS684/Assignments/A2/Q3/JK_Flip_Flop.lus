@@ -1,0 +1,13 @@
+node JK_FF (J, K, CLK: bool) returns (Q, nQ: bool);
+var Q_prev, CLK_pr, CLK_pp: bool;
+let
+	Q_prev	= false -> pre(Q);
+	CLK_pr	= false -> pre(CLK);
+	CLK_pp	= false -> pre(CLK_pr);
+	Q	= if (not(CLK and not(CLK_pr) and CLK_pp))	then Q_prev
+		else if (not J and not K)					then Q_prev
+		else if (not J and K)						then false
+		else if (J and not K)						then true
+		else											 not Q_prev;
+	nQ	= not Q;
+tel

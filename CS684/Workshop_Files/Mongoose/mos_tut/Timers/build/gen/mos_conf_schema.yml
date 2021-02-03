@@ -1,0 +1,390 @@
+- - i2c
+  - o
+  - title: I2C settings
+- - i2c.unit_no
+  - i
+  - 0
+  - title: Which hardware unit to use, 0 or 1
+- - i2c.enable
+  - b
+  - false
+  - title: Enable I2C
+- - i2c.freq
+  - i
+  - 100000
+  - title: Clock frequency
+- - i2c.debug
+  - b
+  - false
+  - title: Debug I2C bus activity
+- - i2c.sda_gpio
+  - i
+  - 32
+  - title: GPIO to use for SDA
+- - i2c.scl_gpio
+  - i
+  - 33
+  - title: GPIO to use for SCL
+- - i2c1
+  - i2c
+  - title: I2C settings
+- - i2c1.unit_no
+  - 1
+- - i2c1.enable
+  - false
+- - i2c1.sda_gpio
+  - 22
+- - i2c1.scl_gpio
+  - 23
+- - sys.atca
+  - o
+  - title: CryptoAuthLib configuration
+- - sys.atca.enable
+  - b
+  - false
+  - title: Enable the chip
+- - sys.atca.i2c_bus
+  - i
+  - 0
+  - title: Which I2C bus to use
+- - sys.atca.i2c_addr
+  - i
+  - 96
+  - title: I2C address of the chip
+- - sys.atca.ecdh_slots_mask
+  - i
+  - 12
+  - title: Which slots can be used for ECDH (bitmask)
+- - debug.mbedtls_level
+  - i
+  - 1
+  - title: mbedTLS debug level
+- - device
+  - o
+  - title: Device settings
+- - device.id
+  - s
+  - title: Device ID
+- - device.license
+  - s
+  - title: License code
+- - device.mac
+  - s
+  - ""
+  - title: user/custom defined mac address
+- - device.public_key
+  - s
+  - ""
+  - title: Key for the restricted access
+- - device.sn
+  - s
+  - ""
+  - title: Serial number
+- - debug
+  - o
+  - title: Debug Settings
+- - debug.level
+  - i
+  - 2
+  - title: Debug Level
+- - debug.file_level
+  - s
+  - ""
+  - title: 'Log file level specification: file=level,file=level,...; see cs_log_set_file_level()'
+- - debug.event_level
+  - i
+  - 2
+  - title: Max level for which a MGOS_EVENT_LOG is raised
+- - debug.stdout_uart
+  - i
+  - 0
+  - title: STDOUT UART (-1 to disable)
+- - debug.stderr_uart
+  - i
+  - 0
+  - title: STDERR UART (-1 to disable)
+- - debug.factory_reset_gpio
+  - i
+  - -1
+  - title: Factory reset GPIO (low on boot)
+- - debug.mg_mgr_hexdump_file
+  - s
+  - title: File name to hexdump network traffic to. Use '-' for stdout, '--' for stderr.
+- - sys
+  - o
+  - title: System settings
+- - sys.tz_spec
+  - s
+  - ""
+  - title: 'See formats for the TZ env var: "man tzset". Formats like ":/path/to/file"
+      are not supported'
+- - sys.wdt_timeout
+  - i
+  - 30
+  - title: Watchdog timeout (seconds)
+- - sys.pref_ota_lib
+  - s
+  - title: Preferred ota lib, e.g. dash, ota-http-client
+- - conf_acl
+  - s
+  - '*'
+  - title: Conf ACL
+- - rpc
+  - o
+  - title: RPC settings
+- - rpc.enable
+  - b
+  - true
+  - title: Enable RPC
+- - rpc.max_frame_size
+  - i
+  - 4096
+  - title: Max Frame Size
+- - rpc.max_queue_length
+  - i
+  - 25
+  - title: Max Queue Length
+- - rpc.default_out_channel_idle_close_timeout
+  - i
+  - 10
+  - title: Default idle close timeout for outbound channels
+- - rpc.acl_file
+  - s
+  - title: File with RPC ACL JSON
+- - rpc.auth_domain
+  - s
+  - title: Realm to use for digest authentication
+- - rpc.auth_file
+  - s
+  - title: File with user credentials in the htdigest format
+- - rpc.uart
+  - o
+  - title: RPC-over-UART settings
+- - rpc.uart.uart_no
+  - i
+  - 0
+  - title: UART number (-1 to disable)
+- - rpc.uart.baud_rate
+  - i
+  - 115200
+  - title: Baud rate
+- - rpc.uart.fc_type
+  - i
+  - 2
+  - title: 'Flow control: 0 - none, 1 - CTS/RTS, 2 - XON/XOFF'
+- - rpc.uart.dst
+  - s
+  - ""
+  - title: Destination reachable via this channel
+- - wifi
+  - o
+  - hide: true
+- - wifi.ap
+  - o
+  - title: WiFi Access Point Config
+- - wifi.ap.enable
+  - b
+  - true
+  - title: Enable
+- - wifi.ap.ssid
+  - s
+  - Mongoose_??????
+  - title: SSID
+- - wifi.ap.pass
+  - s
+  - Mongoose
+  - title: Password
+    type: password
+- - wifi.ap.hidden
+  - b
+  - false
+  - title: Hide SSID
+- - wifi.ap.channel
+  - i
+  - 6
+  - title: Channel
+- - wifi.ap.max_connections
+  - i
+  - 10
+  - title: Max connections
+- - wifi.ap.ip
+  - s
+  - 192.168.4.1
+  - title: IP address
+- - wifi.ap.netmask
+  - s
+  - 255.255.255.0
+  - title: Network Mask
+- - wifi.ap.gw
+  - s
+  - 192.168.4.1
+  - title: Default Gateway
+- - wifi.ap.dhcp_start
+  - s
+  - 192.168.4.2
+  - title: DHCP Start Address
+- - wifi.ap.dhcp_end
+  - s
+  - 192.168.4.100
+  - title: DHCP End Address
+- - wifi.ap.trigger_on_gpio
+  - i
+  - -1
+  - title: Trigger AP on low GPIO
+- - wifi.ap.disable_after
+  - i
+  - 0
+  - title: If > 0, will disable itself after the specified number of seconds
+- - wifi.ap.hostname
+  - s
+  - ""
+  - title: If not empty, DNS server will resolve given host name to the IP address
+      of AP
+- - wifi.sta
+  - o
+  - title: WiFi Station Config
+- - wifi.sta.enable
+  - b
+  - title: Connect to existing WiFi
+- - wifi.sta.ssid
+  - s
+  - title: SSID
+- - wifi.sta.pass
+  - s
+  - title: Password
+    type: password
+- - wifi.sta.user
+  - s
+  - title: Username for WPA-PEAP mode
+- - wifi.sta.anon_identity
+  - s
+  - title: Anonymous identity for WPA mode
+- - wifi.sta.cert
+  - s
+  - title: Client certificate for WPA-TTLS mode
+- - wifi.sta.key
+  - s
+  - title: Client key for WPA-TTLS mode
+- - wifi.sta.ca_cert
+  - s
+  - title: CA certificate for WPA-enterprise mode
+- - wifi.sta.ip
+  - s
+  - title: Static IP Address
+- - wifi.sta.netmask
+  - s
+  - title: Static Netmask
+- - wifi.sta.gw
+  - s
+  - title: Static Default Gateway
+- - wifi.sta.nameserver
+  - s
+  - title: DNS Server
+- - wifi.sta.dhcp_hostname
+  - s
+  - title: Host name to include in DHCP requests
+- - wifi.sta1
+  - wifi.sta
+  - title: WiFi Station Config 1
+- - wifi.sta1.enable
+  - false
+- - wifi.sta2
+  - wifi.sta
+  - title: WiFi Station Config 2
+- - wifi.sta2.enable
+  - false
+- - wifi.sta_cfg_idx
+  - i
+  - 0
+  - title: WiFi station config index to use, 0, 1 or 2
+- - wifi.sta_connect_timeout
+  - i
+  - 30
+  - title: Timeout for connection, seconds
+- - wifi.ap.keep_enabled
+  - b
+  - true
+  - title: Keep AP enabled when station is on
+- - wifi.ap.bandwidth_20mhz
+  - b
+  - false
+  - title: enable 20MHz bandwidth AP operation
+- - wifi.ap.protocol
+  - s
+  - BGN
+  - title: 802.11 Wi-Fi Protocol for AP Mode, defaults to BGN, can be any combination
+      of BGNLR. Note LR only works between 2 ESP32 devices.
+- - wifi.sta_ps_mode
+  - i
+  - 0
+  - title: 'Power save mode for station: 0 - none, 1 - min, 2 - max.'
+- - wifi.sta_all_chan_scan
+  - b
+  - false
+  - title: true to scan all channels or false to perform fast scan
+- - wifi.sta.protocol
+  - s
+  - BGN
+  - title: 802.11 Wi-Fi Protocol for STA Mode, defaults to BGN, can be any combination
+      of BGNLR. Note LR only works between 2 ESP32 devices.
+- - board
+  - o
+  - title: Board layout configuration
+- - board.led1.pin
+  - i
+  - -1
+  - title: LED GPIO pin
+- - board.led1.active_high
+  - b
+  - true
+  - title: True if LED is on when output is high (1)
+- - board.led2.pin
+  - i
+  - -1
+  - title: LED GPIO pin
+- - board.led2.active_high
+  - b
+  - true
+  - title: True if LED is on when output is high (1)
+- - board.led3.pin
+  - i
+  - -1
+  - title: LED GPIO pin
+- - board.led3.active_high
+  - b
+  - true
+  - title: True if LED is on when output is high (1)
+- - board.btn1.pin
+  - i
+  - -1
+  - title: Button GPIO pin
+- - board.btn1.pull_up
+  - b
+  - false
+  - title: True if button is pulled up when inactive
+- - board.btn2.pin
+  - i
+  - -1
+  - title: Button GPIO pin
+- - board.btn2.pull_up
+  - b
+  - false
+  - title: True if button is pulled up when inactive
+- - board.btn3.pin
+  - i
+  - -1
+  - title: Button GPIO pin
+- - board.btn3.pull_up
+  - b
+  - false
+  - title: True if button is pulled up when inactive
+- - board.led1.pin
+  - 13
+- - board.btn1.pin
+  - 0
+- - board.btn1.pull_up
+  - true
+- - provision.btn.pin
+  - 0
+- - provision.btn.pull_up
+  - true

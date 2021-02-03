@@ -1,0 +1,4 @@
+build/
+c_cpp_properties.json
+Makefile
+setting.json

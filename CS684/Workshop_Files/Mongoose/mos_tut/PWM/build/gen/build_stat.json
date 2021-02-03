@@ -1,0 +1,6 @@
+{
+  "arch": "esp32",
+  "platform": "esp32",
+  "app_name": "PWM",
+  "build_time_ms": 26584
+}

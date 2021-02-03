@@ -1,0 +1,19 @@
+node Headlight (ON: bool; MODE: int) returns (LIGHT, HI: bool);
+var FLASHING: bool;
+let
+	LIGHT	 = ON;
+	FLASHING = (MODE=1);
+	HI	 = if not ON then false
+			else if (MODE=0)  then false
+			else if (MODE=2)  then true
+			else Countdown(FLASHING and not(false->pre(FLASHING)),  10);
+tel
+
+node Countdown (reset: bool; start: int) returns (C: bool);
+var O: int;
+let
+	O = start -> if reset then start
+		else if pre(O)>0 then pre(O)-1
+		else start;
+	C = true -> if O=0 then not(pre(C)) else pre(C);
+tel

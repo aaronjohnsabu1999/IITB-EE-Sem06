@@ -1,0 +1,49 @@
+node Mod12Counter (reset: bool) returns (Y: int);
+var check, clock: bool;
+let
+	clock = false -> not(pre(clock));
+	check = (pre(Y)=12 or pre(Y)=13 or pre(Y)=14);
+	Y     = Mod16Counter(clock, check);
+tel
+
+node Mod16Counter (clock, reset: bool) returns (Y: int);
+var Q: bool^4; resVal: bool;
+let
+    resVal = true -> pre(reset);
+    Q[0]   = true -> if not(reset) then JK_FF(                     1,                      1, clock) else true;
+    Q[1]   = true -> if not(reset) then JK_FF(                  Q[0],                   Q[0], clock) else true;
+    Q[2]   = true -> if not(reset) then JK_FF(         Q[1] and Q[0],          Q[1] and Q[0], clock) else true;
+    Q[3]   = true -> if not(reset) then JK_FF(Q[2] and Q[1] and Q[0], Q[2] and Q[1] and Q[0], clock) else true;
+    Y	   = if (not(Q[3]) and not(Q[2]) and not(Q[1]) and not(Q[0]))	then 15
+        else if (not(Q[3]) and not(Q[2]) and not(Q[1]) and     Q[0])	then 14
+        else if (not(Q[3]) and not(Q[2]) and     Q[1]  and not(Q[0]))	then 13
+        else if (not(Q[3]) and not(Q[2]) and     Q[1]  and     Q[0])	then 12
+        else if (not(Q[3]) and     Q[2]  and not(Q[1]) and not(Q[0]))	then 11
+        else if (not(Q[3]) and     Q[2]  and not(Q[1]) and     Q[0])	then 10
+        else if (not(Q[3]) and     Q[2]  and     Q[1]  and not(Q[0]))	then 9
+        else if (not(Q[3]) and     Q[2]  and     Q[1]  and     Q[0])	then 8
+        else if (    Q[3]  and not(Q[2]) and not(Q[1]) and not(Q[0]))	then 7
+        else if (    Q[3]  and not(Q[2]) and not(Q[1]) and     Q[0])	then 6
+        else if (    Q[3]  and not(Q[2]) and     Q[1]  and not(Q[0]))	then 5
+        else if (    Q[3]  and not(Q[2]) and     Q[1]  and     Q[0])	then 4
+        else if (    Q[3]  and     Q[2]  and not(Q[1]) and not(Q[0]))	then 3
+        else if (    Q[3]  and     Q[2]  and not(Q[1]) and     Q[0])	then 2
+        else if (    Q[3]  and     Q[2]  and     Q[1]  and not(Q[0]))	then 1
+        else 																 0;
+tel
+
+node JK_FF (J, K, CLK: bool) returns (Q: bool);
+var Q_prev, CLK_pr, CLK_pp, nQ: bool;
+let
+	Q_prev	= true  -> pre(Q);
+	CLK_pr	= false -> pre(CLK);
+	CLK_pp	= false -> pre(CLK_pr);
+	Q	=    if (not(CLK and not(CLK_pr) and CLK_pp)) then Q_prev
+		else if (not J and not K)                     then Q_prev
+		else if (not J and K)                         then false
+		else if (J and not K)                         then true
+		else                                               not Q_prev;
+	nQ	= not Q;
+tel
+
+

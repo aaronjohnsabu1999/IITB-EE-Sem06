@@ -1,0 +1,904 @@
+Handling lib "rpc-service-fs"...
+rpc-service-fs: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-fs"...
+Handling lib "rpc-uart"...
+Handling lib "core"...
+rpc-uart: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-uart"...
+Handling lib "ca-bundle"...
+core: Does not exist, cloning from "https://github.com/mongoose-os-libs/core"...
+Handling lib "rpc-service-config"...
+rpc-service-config: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-config"...
+ca-bundle: Does not exist, cloning from "https://github.com/mongoose-os-libs/ca-bundle"...
+Handling lib "zz_boards"...
+zz_boards: Does not exist, cloning from "https://github.com/mongoose-os-libs/boards"...
+zz_boards: Checking out 2.17.0...
+zz_boards: Done, hash 897a76f9b7306751dea4596f38df4486548ae2da
+zz_boards: Hash is updated:  -> 897a76f9b7306751dea4596f38df4486548ae2da
+zz_boards: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/boards"
+ca-bundle: Checking out 2.17.0...
+core: Checking out 2.17.0...
+ca-bundle: Done, hash c6a3caec6567790ba33b448c5550ec032b20914f
+ca-bundle: Hash is updated:  -> c6a3caec6567790ba33b448c5550ec032b20914f
+ca-bundle: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/ca-bundle"
+core: Done, hash c7359ef09e0f75bd693d88672ba9665b84d0e46a
+core: Hash is updated:  -> c7359ef09e0f75bd693d88672ba9665b84d0e46a
+core: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core"
+rpc-service-fs: Checking out 2.17.0...
+rpc-service-fs: Done, hash 7edeecacec8ed276aa83485ae8879219dfface29
+rpc-service-fs: Hash is updated:  -> 7edeecacec8ed276aa83485ae8879219dfface29
+rpc-service-fs: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-fs"
+rpc-service-config: Checking out 2.17.0...
+rpc-uart: Checking out 2.17.0...
+rpc-uart: Done, hash 4c68e5d7b3eecb19ccc6128f111a118384ed20b4
+rpc-service-config: Done, hash b30e187977d8dafcb4297cff60e036855a7ff531
+rpc-service-config: Hash is updated:  -> b30e187977d8dafcb4297cff60e036855a7ff531
+rpc-uart: Hash is updated:  -> 4c68e5d7b3eecb19ccc6128f111a118384ed20b4
+rpc-uart: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-uart"
+rpc-service-config: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-config"
+Handling lib "mongoose"...
+mongoose: Does not exist, cloning from "https://github.com/mongoose-os-libs/mongoose"...
+mongoose: Checking out 2.17.0...
+mongoose: Done, hash 08dafbf084c7c25207f28b00948df04b0c218844
+mongoose: Hash is updated:  -> 08dafbf084c7c25207f28b00948df04b0c218844
+mongoose: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mongoose"
+Handling lib "rpc-common"...
+rpc-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-common"...
+rpc-common: Checking out 2.17.0...
+rpc-common: Done, hash 7f1fa52a0ee6ac88bd344691086f176c7fc448a9
+rpc-common: Hash is updated:  -> 7f1fa52a0ee6ac88bd344691086f176c7fc448a9
+rpc-common: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common"
+Handling lib "mbedtls"...
+Handling lib "vfs-common"...
+vfs-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-common"...
+mbedtls: Does not exist, cloning from "https://github.com/mongoose-os-libs/mbedtls"...
+vfs-common: Checking out 2.17.0...
+vfs-common: Done, hash 6e0af5a5e886b051160c9948218c7419c662e1e3
+vfs-common: Hash is updated:  -> 6e0af5a5e886b051160c9948218c7419c662e1e3
+vfs-common: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common"
+mbedtls: Checking out 2.17.0...
+mbedtls: Done, hash ec0fd0c129ce35edb64ec45f512a42e76ef64623
+mbedtls: Hash is updated:  -> ec0fd0c129ce35edb64ec45f512a42e76ef64623
+mbedtls: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls"
+Handling lib "atca"...
+atca: Does not exist, cloning from "https://github.com/mongoose-os-libs/atca"...
+atca: Checking out 2.17.0...
+atca: Done, hash 8fc5370f2244244e91973316bac28fd5a19528f9
+atca: Hash is updated:  -> 8fc5370f2244244e91973316bac28fd5a19528f9
+atca: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca"
+Handling lib "i2c"...
+i2c: Does not exist, cloning from "https://github.com/mongoose-os-libs/i2c"...
+i2c: Checking out 2.17.0...
+i2c: Done, hash adf8fa47daa2b8d0e1a5b729f095f77e85e6797b
+i2c: Hash is updated:  -> adf8fa47daa2b8d0e1a5b729f095f77e85e6797b
+i2c: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c"
+Handling lib "freertos"...
+Handling lib "vfs-fs-lfs"...
+Handling lib "vfs-fs-spiffs"...
+freertos: Does not exist, cloning from "https://github.com/mongoose-os-libs/freertos"...
+vfs-fs-lfs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-lfs"...
+vfs-fs-spiffs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-spiffs"...
+vfs-fs-lfs: Checking out 2.17.0...
+vfs-fs-spiffs: Checking out 2.17.0...
+freertos: Checking out 2.17.0...
+vfs-fs-spiffs: Done, hash 12850caac96f1ea6278d21a661d93a11228de4c3
+vfs-fs-lfs: Done, hash c62bb1e71eadacda195ae550b767bca4d3452c6a
+freertos: Done, hash b8ed791ec9e61a5784f3ae78829b2ef2d1aca638
+vfs-fs-spiffs: Hash is updated:  -> 12850caac96f1ea6278d21a661d93a11228de4c3
+vfs-fs-lfs: Hash is updated:  -> c62bb1e71eadacda195ae550b767bca4d3452c6a
+vfs-fs-spiffs: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs"
+vfs-fs-lfs: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs"
+freertos: Hash is updated:  -> b8ed791ec9e61a5784f3ae78829b2ef2d1aca638
+freertos: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos"
+Handling lib "wifi"...
+wifi: Does not exist, cloning from "https://github.com/mongoose-os-libs/wifi"...
+wifi: Checking out 2.17.0...
+wifi: Done, hash 851f55fda6d1b873284d5c4847bec3f13bcc638f
+wifi: Hash is updated:  -> 851f55fda6d1b873284d5c4847bec3f13bcc638f
+wifi: Prepared local dir: "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi"
+The flag --repo is not given, going to use mongoose-os repository
+mongoose-os: Does not exist, cloning from "https://github.com/cesanta/mongoose-os"...
+mongoose-os: Checking out 2.17.0...
+mongoose-os: Done, hash c31a7453f6754f80acab6b1b229fc097bf411f37
+Successfully fetched prebuilt binary for "mbedtls" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/libmbedtls-esp32-2.17.0.a"
+Successfully fetched prebuilt binary for "mongoose" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/libmongoose-esp32-2.17.0.a"
+Sources: [/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/src/main.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen/mgos_deps_init.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/src/mgos_freertos.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/src/mgos_freertos_core_dump.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/src/mgos_i2c_master.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/src/esp32/esp32_i2c_master.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/src/mgos_atca.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/src/mgos_atca_hal.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/atca_cfgs.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/atca_command.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/atca_device.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/atca_execution.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/atca_iface.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_cbc.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_cmac.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_ctr.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_aes_gcm.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_checkmac.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_counter.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_derivekey.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_ecdh.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_gendig.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_genkey.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_hmac.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_info.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_kdf.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_lock.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_mac.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_nonce.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_privwrite.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_random.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_read.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_secureboot.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_selftest.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_sha.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_sign.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_updateextra.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_verify.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_basic_write.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic/atca_helpers.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/host/atca_host.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/mbedtls/atca_mbedtls_wrap.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src/mgos_vfs.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src/mgos_vfs_dev.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src/mgos_vfs_internal.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src/esp32/esp32_fs.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src/esp32/esp32_fs_crypt.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src/esp32/esp32_vfs_dev_partition.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/src/mgos_vfs_lfs.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs/lfs.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs/lfs_util.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs1/lfs1.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs1/lfs1_util.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src/mgos_vfs_fs_spiffs.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src/spiffs/spiffs_cache.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src/spiffs/spiffs_check.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src/spiffs/spiffs_gc.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src/spiffs/spiffs_hydrogen.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src/spiffs/spiffs_nucleus.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core/src/mgos_core.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/src/mg_rpc.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/src/mg_rpc_channel.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/src/mg_rpc_channel_http.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/src/mgos_rpc.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-config/src/mgos_service_config.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-fs/src/mgos_service_fs.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-uart/src/mgos_rpc_channel_uart.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/src/mgos_wifi.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/src/mjs_wifi.c /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/src/esp32/esp32_wifi.c]
+Include dirs: [/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/include/esp32 /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/crypto /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/hal /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/include/esp32 /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/mbedtls/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/include/esp32 /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mongoose/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs1 /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include/spiffs /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include/esp32 /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core/include/esp32 /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-config/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-fs/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-uart/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/include /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/include/esp32]
+Binary libs: [/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/libmbedtls-esp32-2.17.0.a /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/libmongoose-esp32-2.17.0.a]
+Building...
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375" to "/app"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/modules/mongoose-os" to "/mongoose-os"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/modules/mongoose-os" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/modules/mongoose-os"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/src/esp32" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/src/esp32"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/host" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/host"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/mbedtls" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/mbedtls"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src/esp32" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src/esp32"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs1" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs1"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src/spiffs" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src/spiffs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-config/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-config/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-fs/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-fs/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-uart/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-uart/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/src" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/src"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/src/esp32" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/src/esp32"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/crypto" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/crypto"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/hal" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/hal"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/include/esp32" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/include/esp32"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/mbedtls/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/mbedtls/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/include/esp32" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/include/esp32"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mongoose/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mongoose/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs1" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs1"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include/spiffs" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include/spiffs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include/esp32" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include/esp32"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-config/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-config/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-fs/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-fs/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-uart/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-uart/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/include" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/include"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/include/esp32" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/include/esp32"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/ca-bundle/fs" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/ca-bundle/fs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs"
+mount from "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen" to "/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen"
+Docker arguments: run --name mos_build_2020-02-08T05-29-50-00_1622111328021690382 --rm -i -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-config/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-config/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src/esp32:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src/esp32 -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include/spiffs:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include/spiffs -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/crypto:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/crypto -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/include/esp32:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/include/esp32 -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/modules/mongoose-os:/mongoose-os -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375:/app -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/modules/mongoose-os:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/modules/mongoose-os -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/include/esp32:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-common/include/esp32 -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/core/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-uart/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-uart/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/include/esp32:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/include/esp32 -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/src/esp32:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/src/esp32 -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-common/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-fs/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-fs/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/freertos/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/hal:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/hal -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mongoose/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mongoose/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/host:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/host -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/mbedtls:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/mbedtls -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/ca-bundle/fs:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/ca-bundle/fs -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include/esp32:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/include/esp32 -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src/spiffs:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-spiffs/src/spiffs -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-uart/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-uart/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/src/esp32:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/wifi/src/esp32 -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/mbedtls/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/mbedtls/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-fs/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-fs/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/i2c/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib/basic -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/atca/cryptoauthlib/lib -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs1:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/vfs-fs-lfs/littlefs1 -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-config/src:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/rpc-service-config/src -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/include:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/mbedtls/include -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build -v /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen:/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen --user 0:0 docker.io/mgos/esp32-build:3.3-r2 /bin/bash -c nice make '-j' '8' '-C' '/app' '-f' '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/modules/mongoose-os/platforms/esp32/Makefile.build' 'all' 'MGOS_VARS_FILE=/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen/vars.mk'
+make: Entering directory '/app'
+/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/modules/mongoose-os/platforms/esp32/Makefile.build:179: warning: overriding recipe for target 'defconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:82: warning: ignoring old recipe for target 'defconfig'
+/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/modules/mongoose-os/platforms/esp32/Makefile.build:179: warning: overriding recipe for target 'menuconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:69: warning: ignoring old recipe for target 'menuconfig'
+/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/modules/mongoose-os/platforms/esp32/Makefile.build:220: warning: overriding recipe for target 'clean'
+/opt/Espressif/esp-idf/components/app_update/Makefile.projbuild:48: warning: ignoring old recipe for target 'clean'
+GENCONFIG
+#
+# configuration written to /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen/sdkconfig
+#
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/smartconfig_ack'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/tcpip_adapter'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/xtensa-debug-module'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spi_flash'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/vfs'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/mosapp'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/xtensa-debug-module'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/vfs'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/tcpip_adapter'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/pthread'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/partition_table'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/partition_table'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/mosapp'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spi_flash'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/micro-ecc'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/log'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/smartconfig_ack'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/pthread'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/heap'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/expat'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ethernet'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/micro-ecc'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/log'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/heap'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_ringbuf'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esptool_py'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_event'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esptool_py'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/espcoredump'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ethernet'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/efuse'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/expat'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_adc_cal'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/cxx'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_event'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/espcoredump'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_ringbuf'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_trace'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_adc_cal'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_update'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/efuse'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/cxx'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_trace'
+App "mos_tut" version: 2.17.0
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_update'
+/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/modules/mongoose-os/platforms/esp32/Makefile.build:220: warning: overriding recipe for target 'clean'
+/opt/Espressif/esp-idf/components/app_update/Makefile.projbuild:48: warning: ignoring old recipe for target 'clean'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_trace'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_update'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/cxx'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/efuse'
+CXX /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/cxx/cxx_guards.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/efuse/esp32/esp_efuse_table.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/spi_common.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_trace/app_trace_util.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/bootloader_flash.o
+make[1]: Entering directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+App "mos_tut" version: 2.17.0
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_update/esp_ota_ops.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/efuse/src/esp_efuse_api.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/flash_qio_mode.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_trace/host_file_io.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/efuse/src/esp_efuse_utility.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_trace/app_trace.o
+Python requirements from /opt/Espressif/esp-idf/requirements.txt are satisfied.
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_update/esp_app_desc.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_trace/gcov/gcov_rtio.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/secure_boot_signatures.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/bootloader_utility.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_update/libapp_update.a
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_trace/libapp_trace.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_trace'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/app_update'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/espcoredump'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/bootloader_common.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_adc_cal'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_adc_cal/esp_adc_cal.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/spi_master.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/espcoredump/src/core_dump_port.o
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/efuse'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/efuse'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/main'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/main'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/micro-ecc'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/espcoredump/src/core_dump_flash.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_adc_cal/libesp_adc_cal.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_adc_cal'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_event'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_event/default_event_loop.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/micro-ecc'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/spi_flash'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/espcoredump/src/core_dump_common.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/spi_flash'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/log'
+CXX /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/cxx/cxx_exception_stubs.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/efuse/src/esp_efuse_fields.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/secure_boot.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/bootloader_clock.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_event/esp_event.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/log'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/esptool_py'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/esptool_py'
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/cxx/libcxx.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/cxx'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_event/esp_event_private.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/flash_partitions.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/esp_image_format.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/espcoredump/src/core_dump_uart.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/efuse/libefuse.a
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/bootloader_sha.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/efuse'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/flash_encrypt.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/src/bootloader_random.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/sigmadelta.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/espcoredump/libespcoredump.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/espcoredump'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/log'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/log/log.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/system_api.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/bootloader_flash.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/uart.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/sdio_slave.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/flash_qio_mode.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support/libbootloader_support.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader_support'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_ringbuf'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_ringbuf/ringbuf.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/log/liblog.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/log'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/spi_flash'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/spi_flash/spi_flash_rom_patch.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_event/libesp_event.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_event'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ethernet'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ethernet/emac_dev.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/secure_boot_signatures.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/bootloader_init.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/reset_reason.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ethernet/emac_main.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/bootloader_utility.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_ringbuf/libesp_ringbuf.a
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/lib_printf.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/i2c.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ethernet/eth_phy/phy_common.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ethernet/eth_phy/phy_lan8720.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp_ringbuf'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/bootloader_common.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/expat'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/expat/expat/expat/lib/xmltok.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ethernet/eth_phy/phy_ip101.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/task_wdt.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/spi_flash/libspi_flash.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/spi_flash'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/micro-ecc'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ethernet/eth_phy/phy_tlk110.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/micro-ecc/micro-ecc/uECC.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/sleep_modes.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/secure_boot.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ethernet/libethernet.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ethernet'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/xtensa_intr.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/dbg_stubs.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/bootloader_clock.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/flash_partitions.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/hw_random.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/queue.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/esp_image_format.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/esp_adapter.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/bootloader_sha.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/cache_sram_mmu.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/flash_encrypt.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/src/bootloader_random.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/restore.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/sdspi_transaction.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/ledc.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/croutine.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/pm_locks.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/crosscore_int.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/phy_init.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support/libbootloader_support.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader_support'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/soc_memory_layout.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/list.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/xtensa_init.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/rtc_pm.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/port.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/pm_trace.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/micro-ecc/libmicro-ecc.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/micro-ecc'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/event_groups.o
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/main'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/main/bootloader_start.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/rtc_periph.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/esp_timer_esp32.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/main/libmain.a
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/spiram_psram.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/main'
+make[2]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/efuse'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/efuse/esp32/esp_efuse_table.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/tasks.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/cpu_start.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/clk.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/timers.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/cpu_util.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/sdspi_host.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/panic.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/sdmmc_periph.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/efuse/src/esp_efuse_api.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/FreeRTOS-openocd.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/freertos_hooks.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/rtc_wdt.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/xtensa_overlay_os_hook.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/efuse/src/esp_efuse_utility.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/gdbstub.o
+AS /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/xtensa_intr_asm.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/fast_crypto_ops.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/sdio_slave_periph.o
+AS /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/xtensa_context.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/rtc_init.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/cache_err_int.o
+AS /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/xtensa_vectors.o
+AS /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/xtensa_vector_defaults.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/ipc.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/efuse/src/esp_efuse_fields.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/intr_alloc.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/spi_periph.o
+AS /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/portasm.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/rtc_clk_init.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/gpio.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/gpio_periph.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/efuse/libefuse.a
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos/libfreertos.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/efuse'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/freertos'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/ets_timer_legacy.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/rtc_sleep.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/rtc_time.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/heap'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/heap/heap_caps_init.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/esp32/rtc_clk.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/coexist.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/heap/heap_caps.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/wifi_init.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/src//memory_layout_utils.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/int_wdt.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/event_loop.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/pcnt.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/heap/multi_heap.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/heap/heap_trace.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/pm_esp32.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/esp_err_to_name.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/stack_check.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/expat/expat/expat/lib/loadlibrary.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/expat/expat/expat/lib/xmltok_ns.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc/libsoc.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/soc'
+LD /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader.elf
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/expat/expat/expat/lib/xmlrole.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/expat/expat/expat/lib/xmlparse.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/esp_timer.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/log'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/log/log.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/sdspi_crc.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/dport_access.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/rmt.o
+esptool.py v2.8-dev
+make[1]: Leaving directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/esp_himem.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/heap/libheap.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/heap'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/brownout.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/micro-ecc'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/micro-ecc/micro-ecc/uECC.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/log/liblog.a
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/apps/dhcpserver/dhcpserver.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/log'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/time.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/expat/expat/expat/lib/xmltok_impl.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/spiram.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/apps/ping/ping.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/event_default_handlers.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/hwcrypto/sha.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/apps/ping/esp_ping.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/termios.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/api/netbuf.o
+CXX /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash/src/nvs_types.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/mcpwm.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/syscalls.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/hwcrypto/aes.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/api/api_lib.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/api/netifapi.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/syscall_table.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/micro-ecc/libmicro-ecc.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/micro-ecc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/pthread'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/pthread/pthread_local_storage.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/api/tcpip.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/api/netdb.o
+AS /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/dport_panic_highint_hdl.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/poll.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32/libesp32.a
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/pthread/pthread_cond_var.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/api/err.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/esp32'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/soc_memory_layout.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/utime.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/api/api_msg.o
+CXX /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash/src/nvs_ops.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/sdmmc_transaction.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/api/sockets.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/rtc_pm.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/pthread/pthread.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/reent_init.o
+CXX /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash/src/nvs_item_hash_list.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/locks.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/rtc_periph.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/cpu_util.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/sdmmc_periph.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/rtc_wdt.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/random.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/can.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/pthread/libpthread.a
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/pthread.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/sdio_slave_periph.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/pthread'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spi_flash'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spi_flash/flash_mmap.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/rtc_init.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/select.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib/libnewlib.a
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/spi_periph.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/expat/libexpat.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/newlib'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/smartconfig_ack'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/smartconfig_ack/smartconfig_ack.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/expat'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/tcpip_adapter'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/tcpip_adapter/tcpip_adapter_lwip.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/rtc_clk_init.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/spi_slave.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/gpio_periph.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spi_flash/partition.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/apps/sntp/sntp.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/rtc_sleep.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/rtc_time.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/i2s.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/smartconfig_ack/libsmartconfig_ack.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/smartconfig_ack'
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/vfs'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/vfs/vfs_uart.o
+CXX /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash/src/nvs_encr.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/esp32/rtc_clk.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spi_flash/spi_flash_rom_patch.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/mem.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/init.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/tcpip_adapter/libtcpip_adapter.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/tcpip_adapter'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/vfs/vfs.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/aes-internal-enc.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spi_flash/cache_utils.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/src//memory_layout_utils.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/sdmmc_host.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/timer.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/sha256-internal.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/memp.o
+CXX /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash/src/nvs_pagemanager.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/vfs/libvfs.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/vfs'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spi_flash/flash_ops.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/xtensa-debug-module'
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc/libsoc.a
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/xtensa-debug-module/eri.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/soc'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/xtensa-debug-module/trax.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/md5-internal.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/aes-internal.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/sys.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/periph_ctrl.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/xtensa-debug-module/libxtensa-debug-module.a
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/rtc_module.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/xtensa-debug-module'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/tcp.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/sha1.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/timeouts.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/aes-internal-dec.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/mosapp'
+  GEN   /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen/mgos_config.c
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spi_flash/libspi_flash.a
+  GEN   /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen/mgos_ro_vars.c
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spi_flash'
+AS esp32_nsleep100.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/crypto_internal.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs/spiffs_api.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs/esp_spiffs.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/aes-unwrap.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs/spiffs/src/spiffs_cache.o
+  GEN   /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen/ffi_exports.c
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/crypto_internal-rsa.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs/spiffs/src/spiffs_gc.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/dns.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/des-internal.o
+CC mgos_debug.o
+CC mgos_net.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/dh_group5.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs/spiffs/src/spiffs_nucleus.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/ms_funcs.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs/spiffs/src/spiffs_check.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ip.o
+CXX /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash/src/nvs_api.o
+CC mgos_bitbang.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/crypto_mbedtls.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/def.o
+CC mgos_config_util.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver/libdriver.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/driver'
+  MKDIR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/fw_temp
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/raw.o
+  MKDIR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/fw
+Building partitions from /mongoose-os/platforms/esp32/src/partitions_mgos.csv...
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/tcp_in.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/aes-wrap.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/md4-internal.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/sha1-internal.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs/spiffs/src/spiffs_hydrogen.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/pbuf.o
+CC mgos_core_dump.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/dh_groups.o
+CC mgos_dlsym.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/sha256.o
+CC mgos_event.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/md5.o
+CC mgos_gpio.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/aes-cbc.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs/libspiffs.a
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/sha1-pbkdf2.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/spiffs'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/netif.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/rc4.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/stats.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/crypto_internal-modexp.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/inet_chksum.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/crypto_internal-cipher.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/crypto/bignum.o
+CC mgos_init.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/port/os_xtensa.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/udp.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-wrap.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256-internal.o
+CC mgos_mmap_esp.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-cbc.o
+CXX /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash/src/nvs_storage.o
+CC mgos_sys_config.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/tcp_out.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv4/ip4_frag.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv4/dhcp.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv4/etharp.o
+CC mgos_config.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-unwrap.o
+CC mgos_ro_vars.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-modexp.o
+CC mgos_file_utils.o
+CC mgos_hw_timers.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-cipher.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv4/ip4_addr.o
+CC mgos_system.o
+CC mgos_time.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv4/igmp.o
+CC mgos_timers.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv4/ip4.o
+CC mgos_uart.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv4/autoip.o
+CC esp32_crypto.o
+CC mgos_utils.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv4/icmp.o
+CC esp32_debug.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv6/ip6_frag.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv6/dhcp6.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_common.o
+CC esp32_exc.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv6/inet6.o
+CC esp32_fs_crypt.o
+CC esp32_gpio.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv6/ip6_addr.o
+CC esp32_hal.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/eap_peer/mschapv2.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv6/ip6.o
+CC esp32_hw_timers.o
+CC esp32_main.o
+CC esp32_uart.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_tls.o
+CXX error_codes.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv6/nd6.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_tls_common.o
+CXX status.o
+CC cs_crc32.o
+CXX /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash/src/nvs_page.o
+CC cs_file.o
+CC cs_hex.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv6/mld6.o
+CC cs_rbuf.o
+CC frozen.o
+CC json_utils.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_ttls.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_peap.o
+CC main.o
+CC mgos_deps_init.o
+CC mgos_freertos.o
+CC mgos_freertos_core_dump.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv6/ethip6.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_mschapv2.o
+CC mgos_i2c_master.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/core/ipv6/icmp6.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/netif/slipif.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/netif/ethernet.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/eap_peer/chap.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_peap_common.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_record.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/netif/lowpan6.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/pkcs8.o
+CC esp32_i2c_master.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/lwip/src/netif/ethernetif.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/port/esp32/vfs_lwip.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/x509v3.o
+CC mgos_atca.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/port/esp32/freertos/sys_arch.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/port/esp32/netif/wlanif.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_cred.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/port/esp32/netif/dhcp_state.o
+CC mgos_atca_hal.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash/libnvs_flash.a
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/port/esp32/netif/ethernetif.o
+CC atca_cfgs.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/nvs_flash'
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client_read.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/port/esp32/debug/lwip_debug.o
+CC atca_command.o
+CC atca_device.o
+Generating libapp_trace.a.sections_info
+CC atca_execution.o
+CC atca_iface.o
+Generating libapp_update.a.sections_info
+Generating libbootloader_support.a.sections_info
+Generating libcxx.a.sections_info
+Generating libdriver.a.sections_info
+CC atca_basic.o
+CC atca_basic_aes.o
+CC atca_basic_aes_cbc.o
+Generating libefuse.a.sections_info
+Generating libespcoredump.a.sections_info
+Generating libesp_adc_cal.a.sections_info
+CC atca_basic_aes_cmac.o
+Generating libesp_event.a.sections_info
+Generating libesp32.a.sections_info
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_common.o
+CC atca_basic_checkmac.o
+CC atca_basic_aes_gcm.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/rsa.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip/liblwip.a
+Generating libesp_ringbuf.a.sections_info
+CC atca_basic_aes_ctr.o
+Generating libethernet.a.sections_info
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/lwip'
+CC atca_basic_counter.o
+Generating libexpat.a.sections_info
+CC atca_basic_derivekey.o
+Generating libfreertos.a.sections_info
+Generating libheap.a.sections_info
+CC atca_basic_ecdh.o
+Generating liblog.a.sections_info
+Generating libmicro-ecc.a.sections_info
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client_write.o
+CC atca_basic_genkey.o
+Generating libnewlib.a.sections_info
+CC atca_basic_gendig.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/asn1.o
+Generating libpthread.a.sections_info
+Generating libsoc.a.sections_info
+CC atca_basic_hmac.o
+Generating libspi_flash.a.sections_info
+Generating libsmartconfig_ack.a.sections_info
+Generating libtcpip_adapter.a.sections_info
+Generating libvfs.a.sections_info
+CC atca_basic_info.o
+Generating libxtensa-debug-module.a.sections_info
+Generating libspiffs.a.sections_info
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server_read.o
+CC atca_basic_kdf.o
+CC atca_basic_lock.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/pkcs1.o
+CC atca_basic_mac.o
+CC atca_basic_nonce.o
+CC atca_basic_privwrite.o
+CC atca_basic_random.o
+CC atca_basic_read.o
+CC atca_basic_secureboot.o
+CC atca_basic_selftest.o
+CC atca_basic_sha.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/pkcs5.o
+CC atca_basic_sign.o
+CC atca_basic_updateextra.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/bignum.o
+CC atca_basic_verify.o
+CC atca_basic_write.o
+CC atca_helpers.o
+CC atca_host.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server_write.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/tls/tls_internal.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/utils/base64.o
+CC atca_mbedtls_wrap.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wpa2/utils/ext_password.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wps/eap_common.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wps/wps_attr_process.o
+CC mgos_vfs_dev.o
+CC mgos_vfs.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wps/wps_validate.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wps/wps_attr_parse.o
+CC mgos_vfs_internal.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wps/wps_dev_attr.o
+CC esp32_fs.o
+CC esp32_vfs_dev_partition.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wps/wps.o
+CC mgos_vfs_lfs.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wps/wps_common.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wps/wps_registrar.o
+CC lfs.o
+
+Generating liblwip.a.sections_info
+Generating libnvs_flash.a.sections_info
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wps/wps_attr_build.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wps/uuid.o
+CC lfs_util.o
+CC lfs1.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/src/wps/wps_enrollee.o
+CC lfs1_util.o
+CC mgos_vfs_fs_spiffs.o
+CC spiffs_cache.o
+CC spiffs_check.o
+CC spiffs_gc.o
+CC spiffs_hydrogen.o
+CC spiffs_nucleus.o
+CC mgos_core.o
+CC mg_rpc.o
+CC mg_rpc_channel.o
+CC mg_rpc_channel_http.o
+CC mgos_rpc.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant/libwpa_supplicant.a
+CC mgos_service_config.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/wpa_supplicant'
+Generating libwpa_supplicant.a.sections_info
+CC mgos_service_fs.o
+CC mgos_rpc_channel_uart.o
+CC mgos_wifi.o
+CC mjs_wifi.o
+CC esp32_wifi.o
+CC /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ffi_exports.o
+  GEN   /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen/mg_build_info.c
+CC mg_build_info.o
+  GEN   /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen/build_info.c
+CC build_info.o
+AR /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/mosapp/libmosapp.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/mosapp'
+Generating libmosapp.a.sections_info
+Generating esp32.project.ld
+LD /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/mos_tut.elf
+esptool.py v2.8-dev
+    App size: 928912 of 1572864 (59%)
+  CP    /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/deps/ca-bundle/fs/ca.pem -> /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/fs
+  CP    /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/gen/conf0.json -> /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/fs
+     FS params: size=262144, bs=4096, ps=256, es=4096
+       Adding ca.pem: 30849
+       Adding conf0.json: 3
+     FS stats : space total=233681, used=31877, free=201804
+  MKFS  /usr/local/bin/mkspiffs8 262144 {bs:4096,ps:256,es:4096} /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/fs -> /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/fw_temp/fs.img
+  GEN    /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/fw_temp/manifest.json
+  ZIP    /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/fw/mos_tut-esp32-last.zip
+     Adding /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/fw_temp/bootloader.bin
+     Adding /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/fw_temp/fs.img
+     Adding /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/fw_temp/mos_tut.bin
+     Adding /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/fw_temp/otadata.bin
+     Adding /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/fw_temp/partitions_mgos.bin
+  Built mos_tut/esp32 version 1.0 (20200208-053300)
+To flash all build output, run 'make flash' or:
+python /opt/Espressif/esp-idf/components/esptool_py/esptool/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 1500000 --before default_reset --after hard_reset write_flash -z --flash_mode qio --flash_freq 40m --flash_size detect 0xd000 /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/ota_data_initial.bin 0x1000 /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/bootloader/bootloader.bin 0x10000 /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/mos_tut.bin 0x8000 /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/objs/partitions_mgos.bin
+make: Leaving directory '/app'
+Success, built mos_tut/esp32 version 1.0 (20200208-053300).
+Firmware saved to /data/fwbuild-volumes/2.17.0/apps/mos_tut/esp32/build_contexts/build_ctx_848708375/build/fw.zip
